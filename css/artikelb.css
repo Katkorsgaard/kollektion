@@ -1,0 +1,29 @@
+h1{
+position: relative;
+right:15px;
+left:20px;
+bottom: -940px;
+font-family: times;
+}
+
+p{
+  position: relative;
+  bottom:-980px;
+  font-family: times;
+  margin: auto;
+
+}
+
+p1{
+  position: relative;
+  bottom:-500px;
+  font-family: times;
+  margin: auto;
+
+}
+
+
+
+div{
+  letter-spacing: 15px;
+}
